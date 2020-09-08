@@ -1,0 +1,13 @@
+h1{
+    text-transform: capitalize;
+    background-color: rgb(0, 136, 255);
+    text-align: center;
+}
+h1 p{
+    text-decoration-style: solid;
+    text-transform: uppercase;
+    font-family: serif;
+    backdrop-filter: 3%;
+    background-color: rgba(63, 34, 133, 0.623);
+}
+nav
